@@ -15,7 +15,7 @@
                     </li>
                     <li>
                         <a href="" target="_blank">
-                            <router-link to="/Loge">登入0</router-link>
+                            <router-link to="/Loge">登入</router-link>
                         </a>
                     </li>
                     <li>
